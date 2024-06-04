@@ -46,4 +46,8 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
 <img src="https://img.shields.io/badge/intelliJ-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
+[<img src="https://img.shields.io/badge/Colab-F7DF1E.svg?style=for-the-badge&logo=googlecolab&logoColor=#F9AB00"/>](https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/hardhat%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb)
+[<img src="https://img.shields.io/badge/roboflow-5C2D91?style=for-the-badge&logo=roboflow&logoColor=white">](https://public.roboflow.com/object-detection/hard-hat-workers)
+
+
 </div>
