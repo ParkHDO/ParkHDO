@@ -59,6 +59,10 @@
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
 <br><br>
 
+
+▶ Dataset/AI ◀
+
+
 [<img src="https://img.shields.io/badge/Colab-F7DF1E.svg?style=for-the-badge&logo=googlecolab&logoColor=#F9AB00"/>](https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/hardhat%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb)
 [<img src="https://img.shields.io/badge/roboflow-5C2D91?style=for-the-badge&logo=roboflow&logoColor=white">](https://public.roboflow.com/object-detection/hard-hat-workers)
 <br><br>
