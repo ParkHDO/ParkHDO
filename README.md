@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/JSP-F7DF1E?style=for-the-badge&logo=JSP&logoColor=white">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
-<br><br>
+<br><br><br><br>
 
 ▶ Database ◀
 
@@ -40,14 +40,14 @@
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white"/>
-<br><br>
+<br><br><br><br>
 
 ▶ Version management ◀
 
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-<br><br>
+<br><br><br><br>
 
 ▶ development tools ◀
 
@@ -57,7 +57,7 @@
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
-<br><br>
+<br><br><br><br>
 
 
 ▶ Dataset/AI ◀
@@ -65,6 +65,6 @@
 
 [<img src="https://img.shields.io/badge/Colab-F7DF1E.svg?style=for-the-badge&logo=googlecolab&logoColor=#F9AB00"/>](https://github.com/HwangWooJin1028/YoloAIModel/blob/main/colab/hardhat%ED%83%90%EC%A7%80%EB%AA%A8%EB%8D%B8.ipynb)
 [<img src="https://img.shields.io/badge/roboflow-5C2D91?style=for-the-badge&logo=roboflow&logoColor=white">](https://public.roboflow.com/object-detection/hard-hat-workers)
-<br><br>
+<br><br><br><br>
 
 </div>
