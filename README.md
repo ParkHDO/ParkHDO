@@ -91,5 +91,6 @@
 ##  ■ 2024년 SW 전문 인재 양성 과정 프로젝트 ■
 
 ☞ 첫번째 프로젝트 <a href="https://github.com/ParkHDO/addbook.git">address book</a>
+☞ 두번째 프로젝트 <a href="https://github.com/ParkHDO/wepappTM-02.git">wepappTM-02</a>
 
 </div>
