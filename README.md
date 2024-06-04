@@ -3,7 +3,9 @@ introduction
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE62F717&random=false&width=435&lines=Hello.+This+is+Park%E2%80%99s+GitHub.)](https://git.io/typing-svg)
 
-![free-icon-greeting-909130](https://github.com/ParkHDO/ParkHDO/assets/165633261/f96c93e3-4254-46b8-9f1c-5a097d180b9d)
+![free-icon-greeting-909130](https://github.com/ParkHDO/ParkHDO/assets/165633261/2d619649-46a9-44c9-bac4-c2d069943752)
+
+
 <a href="https://www.flaticon.com/kr/free-icons/" title="타이 아이콘">타이 아이콘 제작자: Freepik - Flaticon</a>
 
 안녕하세요. IT시스템공학전공 박희도입니다.
