@@ -28,7 +28,7 @@
 </a>
 
 ▶ ▶ MY Profeil ◀ ◀
-<a href="https://github.com/ParkHDO/myweb"></a>
+
 
 ## ■ Skills ■
 
