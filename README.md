@@ -90,22 +90,21 @@
 
 ##  ■ 2024년 SW 전문 인재 양성 과정 프로젝트 ■
 
+▶ 첫 번째 프로젝트 ◀ <br> <a href="https://github.com/ParkHDO/addbook.git">address book</a>
+<br><br><br>
+
+▶ 두 번째 프로젝트 ◀ <br> <a href="https://github.com/ParkHDO/wepappTM-02.git">wepappTM-02</a>
+<br><br><br>
+
+▶ 세 번째 프로젝트 ◀ <br> <a href="https://github.com/ParkHDO/Keras.git">Keras</a>
+<br><br><br>
+
+▶ 네 번째 프로젝트 ◀ <br> <a href="https://github.com/ParkHDO/AiModels.git">AiModels</a>
+<br><br><br>
+
+▶ 다섯번째 프로젝트 ◀ <br> <a href="https://github.com/ParkHDO/Native-APP.git">Native-APP</a>
+<br><br><br>
+
+▶ 여섯번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/Hair-NoHair.git">Hair-NoHair</a>
+
 </div>
-
-▶ 첫 번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/addbook.git">address book</a>
-<br><br><br>
-
-▶ 두 번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/wepappTM-02.git">wepappTM-02</a>
-<br><br><br>
-
-▶ 세 번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/Keras.git">Keras</a>
-<br><br><br>
-
-▶ 네 번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/AiModels.git">AiModels</a>
-<br><br><br>
-
-▶ 다섯번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/Native-APP.git">Native-APP</a>
-<br><br><br>
-
-▶ 여섯번째 프로젝트 ◀ <br>  ☞ <a href="https://github.com/ParkHDO/Hair-NoHair.git">Hair-NoHair</a>
-
