@@ -1,7 +1,9 @@
 <div align=center>
-# introduction
+introduction
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE62F717&random=false&width=435&lines=Hello.+This+is+Park%E2%80%99s+GitHub.)](https://git.io/typing-svg)
+
+<a href="https://www.flaticon.com/kr/free-icons/" title="타이 아이콘">타이 아이콘 제작자: Freepik - Flaticon</a>
 
 안녕하세요. IT시스템공학전공 박희도입니다.
 IT시스템전공을 하면서 html, css를 배우는 과정에서 흥미를 느껴 JAVA, JSP, MySQL, mariaDB, AI(인공지능) 등을 배웠습니다.
