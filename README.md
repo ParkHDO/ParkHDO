@@ -100,6 +100,6 @@
 
 ☞ 다섯번째 프로젝트 <a href="https://github.com/ParkHDO/Native-APP.git">Native-APP</a>
 
-☞ 여번째 프로젝트 <a href="https://github.com/ParkHDO/Hair-NoHair.git">Hair-NoHair</a>
+☞ 여섯번째 프로젝트 <a href="https://github.com/ParkHDO/Hair-NoHair.git">Hair-NoHair</a>
 
 </div>
