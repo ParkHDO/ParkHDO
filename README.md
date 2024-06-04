@@ -18,11 +18,13 @@
 열정만큼은 누구한테도 뒤지지 않는 신입개발자입니다.
 
 ▶ ▶ Contact ◀ ◀
+
+
 <a href="mailto:gmleh9207@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
 </a>
 <a href="[https://open.kakao.com/o/spzYdovg](https://open.kakao.com/o/gNNYHpvg)">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
+    <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
 </a>
 
 
