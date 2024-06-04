@@ -92,9 +92,9 @@
 
 </div>
 
-- 첫 번째 프로젝트 ☞ <a href="https://github.com/ParkHDO/addbook.git">address book</a> ☜
+- 첫 번째 프로젝트          ☞ <a href="https://github.com/ParkHDO/addbook.git">address book</a> ☜
 
-- 두 번째 프로젝트 ☞ <a href="https://github.com/ParkHDO/wepappTM-02.git">wepappTM-02</a> ☜
+- 두 번째 프로젝트          ☞ <a href="https://github.com/ParkHDO/wepappTM-02.git">wepappTM-02</a> ☜
 
 - 세 번째 프로젝트 ☞ <a href="https://github.com/ParkHDO/Keras.git">Keras</a> ☜
 
