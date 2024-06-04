@@ -1,5 +1,5 @@
 <div align=center>
-## introduction
+# introduction
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE62F717&random=false&width=435&lines=Hello.+This+is+Park%E2%80%99s+GitHub.)](https://git.io/typing-svg)
 
