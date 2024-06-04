@@ -83,4 +83,7 @@
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 <br><br><br><br>
 
+
+##  ■ 2024년 SW 전문 인재 양성 과정 프로젝트 ■
+
 </div>
