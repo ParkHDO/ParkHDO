@@ -92,16 +92,16 @@
 
 </div>
 
-- 첫 번째 프로젝트 <br> ☞ <a href="https://github.com/ParkHDO/addbook.git">address book</a> ☜
+▶ 첫 번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/addbook.git">address book</a> ☜
 
-- 두 번째 프로젝트 <br> ☞ <a href="https://github.com/ParkHDO/wepappTM-02.git">wepappTM-02</a> ☜
+▶ 두 번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/wepappTM-02.git">wepappTM-02</a> ☜
 
-- 세 번째 프로젝트 <br> ☞ <a href="https://github.com/ParkHDO/Keras.git">Keras</a> ☜
+▶ 세 번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/Keras.git">Keras</a> ☜
 
-- 네 번째 프로젝트 <br> ☞ <a href="https://github.com/ParkHDO/AiModels.git">AiModels</a> ☜
+▶ 네 번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/AiModels.git">AiModels</a> ☜
 
-- 다섯번째 프로젝트 <br> ☞ <a href="https://github.com/ParkHDO/Native-APP.git">Native-APP</a> ☜
+▶ 다섯번째 프로젝트 ◀ <br> ☞ <a href="https://github.com/ParkHDO/Native-APP.git">Native-APP</a> ☜
 
-- 여섯번째 프로젝트 <br>  ☞ <a href="https://github.com/ParkHDO/Hair-NoHair.git">Hair-NoHair</a> ☜
+▶ 여섯번째 프로젝트 ◀ <br>  ☞ <a href="https://github.com/ParkHDO/Hair-NoHair.git">Hair-NoHair</a> ☜
 
 
