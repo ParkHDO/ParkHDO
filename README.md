@@ -26,6 +26,9 @@
 <a href="[https://open.kakao.com/o/spzYdovg](https://open.kakao.com/o/gNNYHpvg)">
     <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
 </a>
+<div>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSongSeungGun%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
+</div> 
 <br><br><br><br>
 
 ▶ ▶ MY Profeil ◀ ◀
