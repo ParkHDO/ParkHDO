@@ -107,7 +107,7 @@
 ▶ 여섯번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/Hair-NoHair.git">Hair-NoHair</a>
 <br><br><br>
 
-▶ 일곱번째 프로젝트 ◀ <br>  <a href="">시각장애인을 위한 로봇안내견</a>
+▶ 일곱번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/AiRobot-TeamGD">시각장애인을 위한 로봇안내견</a>
 
 </div>
 
