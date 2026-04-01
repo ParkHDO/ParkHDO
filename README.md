@@ -109,13 +109,9 @@
 
 ▶ 일곱번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/AiRobot-TeamGD">시각장애인을 위한 로봇안내견</a>
 
-▶ 여번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/WorkUP">WORK UP 그룹웨어</a>
+##  ■ 2026년 대덕인재개발원 전자정부 프레임워크 & React(AWS) 기반 풀-스텍 개발자 양성과  ■
+
+▶ 여덟번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/WorkUP">WORK UP 그룹웨어</a>
 
 </div>
 
-<div style="text-align: left;"> 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-  <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=ParkHDO&bg_color=60,85a5e5,66f0e7&title_color=ffffff&text_color=ffffff"/> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ParkHDO&layout=compact&bg_color=60,85a5e5,66f0e7&title_color=ffffff&text_color=ffffff"/>
-  </div> 
-</div>
