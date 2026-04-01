@@ -109,7 +109,8 @@ mariaDB, Oracle SQL Developer, AI(인공지능) 등을 배웠습니다.
 
 ▶ 일곱번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/AiRobot-TeamGD">시각장애인을 위한 로봇안내견</a>
 
-##  ■ 2026년 대덕인재개발원 전자정부 프레임워크 & React(AWS) 기반 풀-스텍 개발자 양성과  ■
+##  ■ 전자정부 프레임워크 & React(AWS) 기반 풀-스텍 개발자 양성과정  ■
+##  2026년 대덕인재개발원
 
 ▶ 여덟번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/WorkUP">WORK UP 그룹웨어</a>
 
