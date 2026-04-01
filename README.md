@@ -11,7 +11,9 @@
 
 안녕하세요. IT시스템공학전공 박희도입니다.
 
-전공 공부를 하면서 html, css를 배우는 과정에서 흥미를 느껴 JAVA, JSP, MySQL, mariaDB, AI(인공지능) 등을 배웠습니다.
+전공 공부를 하면서 html, css를 배우는 과정에서 흥미를 느껴 JAVA, JSP, MySQL, mariaDB, Oracle SQL Developer, AI(인공지능) 
+
+등을 배웠습니다.
 
 현재 AI(인공지능)이며, 백엔드, DB관련 부분을 공부하고 있습니다. 
 
@@ -108,6 +110,8 @@
 <br><br><br>
 
 ▶ 일곱번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/AiRobot-TeamGD">시각장애인을 위한 로봇안내견</a>
+
+▶ 여번째 프로젝트 ◀ <br>  <a href="https://github.com/ParkHDO/WorkUP">WORK UP 그룹웨어</a>
 
 </div>
 
